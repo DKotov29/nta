@@ -1,0 +1,15 @@
+E:\КПИ\Tasks\SilverPohligHellmanAlgo\SilverPohligHellmanAlgo\obj\Debug\net6.0\SilverPohligHellmanAlgo.csproj.AssemblyReference.cache
+E:\КПИ\Tasks\SilverPohligHellmanAlgo\SilverPohligHellmanAlgo\obj\Debug\net6.0\SilverPohligHellmanAlgo.GeneratedMSBuildEditorConfig.editorconfig
+E:\КПИ\Tasks\SilverPohligHellmanAlgo\SilverPohligHellmanAlgo\obj\Debug\net6.0\SilverPohligHellmanAlgo.AssemblyInfoInputs.cache
+E:\КПИ\Tasks\SilverPohligHellmanAlgo\SilverPohligHellmanAlgo\obj\Debug\net6.0\SilverPohligHellmanAlgo.AssemblyInfo.cs
+E:\КПИ\Tasks\SilverPohligHellmanAlgo\SilverPohligHellmanAlgo\obj\Debug\net6.0\SilverPohligHellmanAlgo.csproj.CoreCompileInputs.cache
+E:\КПИ\Tasks\SilverPohligHellmanAlgo\SilverPohligHellmanAlgo\bin\Debug\net6.0\SilverPohligHellmanAlgo.exe
+E:\КПИ\Tasks\SilverPohligHellmanAlgo\SilverPohligHellmanAlgo\bin\Debug\net6.0\SilverPohligHellmanAlgo.deps.json
+E:\КПИ\Tasks\SilverPohligHellmanAlgo\SilverPohligHellmanAlgo\bin\Debug\net6.0\SilverPohligHellmanAlgo.runtimeconfig.json
+E:\КПИ\Tasks\SilverPohligHellmanAlgo\SilverPohligHellmanAlgo\bin\Debug\net6.0\SilverPohligHellmanAlgo.dll
+E:\КПИ\Tasks\SilverPohligHellmanAlgo\SilverPohligHellmanAlgo\bin\Debug\net6.0\SilverPohligHellmanAlgo.pdb
+E:\КПИ\Tasks\SilverPohligHellmanAlgo\SilverPohligHellmanAlgo\obj\Debug\net6.0\SilverPohligHellmanAlgo.dll
+E:\КПИ\Tasks\SilverPohligHellmanAlgo\SilverPohligHellmanAlgo\obj\Debug\net6.0\refint\SilverPohligHellmanAlgo.dll
+E:\КПИ\Tasks\SilverPohligHellmanAlgo\SilverPohligHellmanAlgo\obj\Debug\net6.0\SilverPohligHellmanAlgo.pdb
+E:\КПИ\Tasks\SilverPohligHellmanAlgo\SilverPohligHellmanAlgo\obj\Debug\net6.0\SilverPohligHellmanAlgo.genruntimeconfig.cache
+E:\КПИ\Tasks\SilverPohligHellmanAlgo\SilverPohligHellmanAlgo\obj\Debug\net6.0\ref\SilverPohligHellmanAlgo.dll
